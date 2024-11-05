@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Software Development**
 
-- 🤝 I’m looking for help with [chatapp](https://github.com/Boahan/chatapp)
+- 🤝 I’m looking for help with **FTE roles**
 
-- 💬 Ask me about **PHP, Web Development**
+- 💬 Ask me about **Software Development, Web Development**
 
 - 📫 How to reach me **shaswatgusain1@gmail.com**
 
